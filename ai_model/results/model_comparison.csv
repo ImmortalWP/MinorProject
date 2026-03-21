@@ -1,0 +1,2 @@
+Model,R2_Score,MAE_NPR,RMSE_NPR,Best_Params,Train_Time_s
+Linear Regression,0.7954,6229.0,9969.0,{'regressor__fit_intercept': True},2.88
